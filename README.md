@@ -1,4 +1,7 @@
 ## CH634X USB3.0 Type-C 四口 HUB
+
+开源地址：https://oshwhub.com/xiaodu2004/project_inetifsx?jspm=hub.zy.zp.gc1&jlc_vid=RlcNXwJSEwQNA11SR1cKXlICRQRWVVNeQlcKBAVeR1cxVlNeT1dcUlVfQVldUDsOAxUeFF5JWA4dDxMOAgNABAsLWD4BFAwRHxQMSQcJGg%3D%3D
+
 > 1× Type-C 上行 ｜ 1× Type-C 下行 ｜ 3× USB-A ｜ USB 3.2 Gen1 5Gbps
 
 本项目基于 WCH CH634X 设计，是一款四端口 USB3.0 扩展坞，主要用于学习和验证 USB Type-C 正反插、USB3.0 高速差分信号、端口供电管理以及 ESD 防护 等硬件设计。

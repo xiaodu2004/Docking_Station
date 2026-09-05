@@ -1,9 +1,9 @@
-CH634X USB3.0 Type-C 四口 HUB
+<img width="1920" height="1440" alt="1a21e644ad6d8bf0c96994f553bfa904" src="https://github.com/user-attachments/assets/16b822d4-2f08-4158-9a23-844a0a480aee" />CH634X USB3.0 Type-C 四口 HUB
 
 > 1× Type-C 上行 ｜ 1× Type-C 下行 ｜ 3× USB-A ｜ USB 3.2 Gen1 5Gbps
 
 本项目基于 WCH CH634X 设计，是一款四端口 USB3.0 扩展坞，主要用于学习和验证 USB Type-C 正反插、USB3.0 高速差分信号、端口供电管理以及 ESD 防护 等硬件设计。
-![Uploading image.png…]()
+<img width="1920" height="1440" alt="1a21e644ad6d8bf0c96994f553bfa904" src="https://github.com/user-attachments/assets/e71ae5e2-871b-4453-9f4d-151056ecf619" />
 
 ✨ 主要功能
 
@@ -84,12 +84,14 @@ GND
 1a86:80a1  QinHeng Electronics USB3.0 HUB
 
 说明 USB2.0 与 USB3.0 HUB 均已成功工作。
+<img width="1743" height="975" alt="7078e253dd9cf74965f80ec59cda53e2" src="https://github.com/user-attachments/assets/b067d7c8-3536-4150-84d5-dd335753d44d" />
 
-image.png
 下行四个接口测速如下：（测试设备使用支持USB3.0的U盘）
-外壳设计
+<img width="704" height="774" alt="d4575c8bc219e6ff62f38072c5a19444" src="https://github.com/user-attachments/assets/6b7c972e-c2b0-4220-af93-39546dbbe60d" />
 
-image.png
+外壳设计
+<img width="1167" height="891" alt="b87860965c1ad9c52421c04d377879f3" src="https://github.com/user-attachments/assets/edb39d02-55e2-4744-a23e-b9f005ac38f4" />
+
 📖 项目说明
 
 本项目主要用于个人学习与硬件验证，涉及：
